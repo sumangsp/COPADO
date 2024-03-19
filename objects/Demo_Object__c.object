@@ -5,13 +5,11 @@
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
-
         <actionName>Accept</actionName>
         <formFactor>Large</formFactor>
         <type>Default</type>
     </actionOverrides>
     <actionOverrides>
-
         <actionName>Accept</actionName>
         <formFactor>Small</formFactor>
         <type>Default</type>
@@ -184,7 +182,7 @@
         <type>Text</type>
         <unique>false</unique>
     </fields>
-    <fields>
+ <fields>
         <fullName>Third_Field__c</fullName>
         <externalId>false</externalId>
         <label>Third Field</label>
